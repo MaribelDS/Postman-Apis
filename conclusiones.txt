@@ -1,0 +1,6 @@
+** Prueba técnica QA NTTData **
+Autor: Maribel Vargas
+
+Las pruebas realizadas a las api de registro y login se están ejecutando de manera satisfactoria, recibiendo un mensaje vacío cuando recibe un estatus 200.
+
+GIT: https://github.com/MaribelDS/Postman-Apis.git
